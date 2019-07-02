@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image11]: ./examples/all_class_traffic_types.png "all_class_traffic_types"
+[image11]: ./examples/all_class_traffic_types.jpg "all_class_traffic_types"
 [image12]: ./examples/classes_distribution.jpg "classes_distribution"
 [image2]: ./examples/src_gray.jpg "Grayscaling"
 [image13]: ./examples/all_Aug_class_traffic_types.jpg "all_Aug_class_traffic_types"
